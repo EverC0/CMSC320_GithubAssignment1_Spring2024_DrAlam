@@ -1,0 +1,5 @@
+Question: Why are you interested in taking cmsc320?
+
+So, I’m interested in taking cmsc320 because I want to get a good understanding about 
+Databases and data science in general so that I get familiar with how companies store and use data.
+This will be beneficial when I want to create my projects and a valuable skill when I enter the tech industry.
